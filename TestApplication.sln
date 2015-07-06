@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{1A8BE271-C776-476D-80F8-5C1DD1F735F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleConn", "OracleConnection\OracleConn.csproj", "{6D45BC7D-D4C7-473B-945B-B1A1517219E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8BE271-C776-476D-80F8-5C1DD1F735F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8BE271-C776-476D-80F8-5C1DD1F735F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8BE271-C776-476D-80F8-5C1DD1F735F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8BE271-C776-476D-80F8-5C1DD1F735F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D45BC7D-D4C7-473B-945B-B1A1517219E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D45BC7D-D4C7-473B-945B-B1A1517219E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D45BC7D-D4C7-473B-945B-B1A1517219E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D45BC7D-D4C7-473B-945B-B1A1517219E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
